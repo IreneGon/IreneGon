@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IreneGon
 - 👀 I’m interested in all sorts
 - 🌱 I’m currently learning CS50, Python & Data Science
-- "Worse is better"
+
 
 
 <!---
