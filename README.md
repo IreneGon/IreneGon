@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IreneGon
 - 👀 I’m interested in all sorts
-- 🌱 I’m currently learning Python, Linux, WebDev
+- 🌱 Python, Linux, WebDev, Cloud services
 
 
 
