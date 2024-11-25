@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IreneGon
-- 👀 I’m interested in all sorts
-- 🌱 Python, Linux, WebDev, Cloud services
+- 👀 I’m working as IT System Admin
+- Python, Linux, WebDev, Cloud services, Cloud services
 
 
 
