@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IreneGon
 - 👀 I’m working as IT System Admin
-- Python, Linux, WebDev, Cloud services, Cloud services
+- Python, Linux, WebDev, Cloud services
 
 
 
